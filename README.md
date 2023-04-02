@@ -21,15 +21,13 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/sohammanjrekar/E-commerce-website-in-PHP/total) ![Contributors](https://img.shields.io/github/contributors/sohammanjrekar/E-commerce-website-in-PHP?color=dark-green) ![Forks](https://img.shields.io/github/forks/sohammanjrekar/E-commerce-website-in-PHP?style=social) ![Stargazers](https://img.shields.io/github/stars/sohammanjrekar/E-commerce-website-in-PHP?style=social) ![Issues](https://img.shields.io/github/issues/sohammanjrekar/E-commerce-website-in-PHP) ![License](https://img.shields.io/github/license/sohammanjrekar/E-commerce-website-in-PHP) 
+![Downloads](https://img.shields.io/github/downloads/sohammanjrekar/E-commerce-website-in-PHP/total) ![Contributors](https://img.shields.io/github/contributors/sohammanjrekar/E-commerce-website-in-PHP?color=dark-green) ![Forks](https://img.shields.io/github/forks/sohammanjrekar/E-commerce-website-in-PHP?style=social) ![Stargazers](https://img.shields.io/github/stars/sohammanjrekar/E-commerce-website-in-PHP?style=social) ![Issues](https://img.shields.io/github/issues/sohammanjrekar/E-commerce-website-in-PHP) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/sohammanjrekar/cheatsheet-website/blob/main/LICENSE)  
 
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
@@ -37,12 +35,16 @@
 * [Authors](#authors)
 
 ## Homepage
-![GUI](https://github.com/jacobjohn2016/PHP-ecommerce/raw/master/home.png)
+![](https://64.media.tumblr.com/513cc4a87bbec1a09d01aec0a0242db3/51ece9f038c755c4-44/s2048x3072/c30d6fb66d7b55de03229bc09ef66b2ab4c4593e.pnj)
 
 ## About The Project
 
 The Sneakers World is a ecommerce website.Developed using php in backend and mysql database and used html and css in frontend
-
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="" src="https://64.media.tumblr.com/513cc4a87bbec1a09d01aec0a0242db3/51ece9f038c755c4-44/s2048x3072/c30d6fb66d7b55de03229bc09ef66b2ab4c4593e.pnj">  Home page |  <img width="1604" alt="" src="https://64.media.tumblr.com/59b5624f86b8265c20294b1de61ac845/486189e458cfa9cb-69/s2048x3072/86e5915467b644a1c1e057a5846b969a2829fb0a.pnj"> Log IN page |<img width="1604" alt="" src="https://64.media.tumblr.com/12509c6fd0474face5debf98c6b98e46/486189e458cfa9cb-89/s2048x3072/5c246c8cf310ff1b9cc4060e80ac0135724b66ab.pnj"> Cart page |
+|<img width="1604" alt="" src="https://64.media.tumblr.com/446924897d99930959395c1691f16050/486189e458cfa9cb-33/s2048x3072/a3e97ad3f65111ecb816af23f19f81993a93fb9e.pnj"> Category page |  <img width="1604" alt="" src="https://64.media.tumblr.com/3dd0532c44f03e925bef53f8e3ce158c/e5ed9f3ce2e53d1b-ab/s2048x3072/60cf89b1e7546703df17d0629bb122f6f3c6182c.pnj">  Checkout page|<img width="1604" alt="" src="https://64.media.tumblr.com/f55cc6510d7627349bbfb9241a67fba5/e5ed9f3ce2e53d1b-33/s2048x3072/b15e1091a2ca9922f7eb54035cde08ac01416467.pnj"> Thanks page |
+|<img width="1604" alt="" src="https://64.media.tumblr.com/e51f709ab55c492fd1816427f1490f72/e5ed9f3ce2e53d1b-d3/s2048x3072/7f8fb3c542a1b5a7ce3913f9fe34d30f5a32072b.pnj">  Order page|  <img width="1604" alt="" src="https://64.media.tumblr.com/306e3c92a265e9d7cb5e92d0a84a2fce/6b749902b3bbc8f9-09/s2048x3072/8441949ddec8b2d1a361d17b8b3639827ee89748.pnj"> Product Page |<img width="1604" alt="" src="https://64.media.tumblr.com/666c505fcbcaf6a0162d2535795b6823/38a74164e35958ea-06/s2048x3072/385cbe3639c335ac6531e1397648337dea653e24.pnj"> Edit profile|
 
 ## Built With
 
@@ -52,6 +54,10 @@ The Sneakers World is a ecommerce website.Developed using php in backend and mys
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [CSS](https://www.w3schools.com/css/default.asp)
 - [JS](https://www.w3schools.com/css/default.asp)
+
+
+## Colour Platte for website
+![](https://64.media.tumblr.com/ec4e0199e6592af66df43a706a8de3eb/ca753bf1ea920d00-54/s1280x1920/7736ca7eae365ae2937e2c2a1b022f582e509ce1.jpg)
 
 
 ## Database Configuration

@@ -21,7 +21,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/sohammanjrekar/E-commerce-website-in-PHP/total) ![Contributors](https://img.shields.io/github/contributors/sohammanjrekar/E-commerce-website-in-PHP?color=dark-green) ![Forks](https://img.shields.io/github/forks/sohammanjrekar/E-commerce-website-in-PHP?style=social) ![Stargazers](https://img.shields.io/github/stars/sohammanjrekar/E-commerce-website-in-PHP?style=social) ![Issues](https://img.shields.io/github/issues/sohammanjrekar/E-commerce-website-in-PHP) ![License](https://img.shields.io/github/license/sohammanjrekar/E-commerce-website-in-PHP) 
+![Downloads](https://img.shields.io/github/downloads/sohammanjrekar/E-commerce-website-in-PHP/total) ![Contributors](https://img.shields.io/github/contributors/sohammanjrekar/E-commerce-website-in-PHP?color=dark-green) ![Forks](https://img.shields.io/github/forks/sohammanjrekar/E-commerce-website-in-PHP?style=social) ![Stargazers](https://img.shields.io/github/stars/sohammanjrekar/E-commerce-website-in-PHP?style=social) ![Issues](https://img.shields.io/github/issues/sohammanjrekar/E-commerce-website-in-PHP) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/sohammanjrekar/cheatsheet-website/blob/main/LICENSE)  
 
 ## Table Of Contents
 

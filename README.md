@@ -56,6 +56,10 @@ The Sneakers World is a ecommerce website.Developed using php in backend and mys
 - [JS](https://www.w3schools.com/css/default.asp)
 
 
+## Colour Platte for website
+![](https://64.media.tumblr.com/ec4e0199e6592af66df43a706a8de3eb/ca753bf1ea920d00-54/s1280x1920/7736ca7eae365ae2937e2c2a1b022f582e509ce1.jpg)
+
+
 ## Database Configuration
 
 Host: localhost<br>
